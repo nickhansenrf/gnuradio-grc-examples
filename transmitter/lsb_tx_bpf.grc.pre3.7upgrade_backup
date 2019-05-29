@@ -335,7 +335,7 @@
     </param>
   </block>
   <block>
-    <key>blocks_multiply_const_vxx</key>
+    <key>gr_multiply_const_vxx</key>
     <param>
       <key>id</key>
       <value>gr_multiply_const_vxx_0</value>
@@ -417,7 +417,7 @@
     </param>
   </block>
   <block>
-    <key>blocks_multiply_xx</key>
+    <key>gr_multiply_xx</key>
     <param>
       <key>id</key>
       <value>gr_multiply_xx_1</value>
@@ -448,7 +448,7 @@
     </param>
   </block>
   <block>
-    <key>rational_resampler_xxx</key>
+    <key>blks2_rational_resampler_xxx</key>
     <param>
       <key>id</key>
       <value>blks2_rational_resampler_xxx_1</value>
@@ -533,7 +533,7 @@
     </param>
   </block>
   <block>
-    <key>analog_sig_source_x</key>
+    <key>gr_sig_source_x</key>
     <param>
       <key>id</key>
       <value>gr_sig_source_x_1</value>
@@ -729,7 +729,7 @@
     </param>
   </block>
   <block>
-    <key>analog_sig_source_x</key>
+    <key>gr_sig_source_x</key>
     <param>
       <key>id</key>
       <value>carrier</value>
@@ -772,7 +772,7 @@
     </param>
   </block>
   <block>
-    <key>blocks_multiply_xx</key>
+    <key>gr_multiply_xx</key>
     <param>
       <key>id</key>
       <value>gr_multiply_xx_0</value>
@@ -803,7 +803,7 @@
     </param>
   </block>
   <block>
-    <key>blocks_float_to_complex</key>
+    <key>gr_float_to_complex</key>
     <param>
       <key>id</key>
       <value>gr_float_to_complex_0</value>
@@ -826,7 +826,7 @@
     </param>
   </block>
   <block>
-    <key>analog_const_source_x</key>
+    <key>const_source_x</key>
     <param>
       <key>id</key>
       <value>const_source_x_0</value>
@@ -853,7 +853,7 @@
     </param>
   </block>
   <block>
-    <key>rational_resampler_xxx</key>
+    <key>blks2_rational_resampler_xxx</key>
     <param>
       <key>id</key>
       <value>audio_resampler</value>
@@ -1089,7 +1089,7 @@
     </param>
   </block>
   <block>
-    <key>blocks_multiply_const_vxx</key>
+    <key>gr_multiply_const_vxx</key>
     <param>
       <key>id</key>
       <value>audio_amplifier</value>
